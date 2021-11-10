@@ -52,5 +52,3 @@ function handleAppear() {
 
 
 
-
-localStorage.clear()
