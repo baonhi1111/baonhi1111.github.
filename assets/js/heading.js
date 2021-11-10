@@ -49,6 +49,6 @@ function handleAppear() {
   };
 }
 
-
+localStorage.clear();
 
 

@@ -347,5 +347,3 @@ const fakeLoading = () => {
   }
 })();
 
-
-localStorage.clear()
