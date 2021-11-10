@@ -520,4 +520,3 @@ document.getElementById("confirm-btn").onclick = () => {
   }, 8000);
 };
 
-localStorage.clear()
