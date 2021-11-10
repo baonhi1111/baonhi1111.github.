@@ -519,4 +519,3 @@ document.getElementById("confirm-btn").onclick = () => {
     prompt("Hết ùi đó, mong Nhi thích món quà này nha :> Chúc gì thì cũng đã chúc hết ùi, thế thì mong Nhi có 1 ngày sinh nhật tuổi 18 thật trọn vẹn nhé 😘😘 (thích thì vào nhắn iu Bảo cái nhaa :>)")
   }, 8000);
 };
-

@@ -346,4 +346,3 @@ const fakeLoading = () => {
     localStorage.setItem("responseStartPage2", JSON.stringify(responseStartPage2));
   }
 })();
-
